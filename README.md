@@ -1,6 +1,5 @@
 ![JacobEM](https://jacobem.com/assets/media/JacobEM.png)
 
-
 # Character In Sentence
 
 CharInSentence is a Python library for examining whether character(s) are found within a string. You can compare your string against default alphabets or your own custom list.
@@ -14,7 +13,7 @@ CharInSentence is a Python library for examining whether character(s) are found 
 
 ```py
 import charInSentence
-charInSentence.check(See-Reference-One, See-Reference-Two, See-Reference-Three)
+charInSentence.check(See-Parameter-One, See-Parameter-Two, See-Parameter-Three)
 ```
 
 #### Reference One
@@ -32,7 +31,7 @@ charInSentence.check(See-Reference-One, See-Reference-Two, See-Reference-Three)
 
 #### Reference Two
 
-Sentence that the character list is compared to. (Input as a string)
+The sentence that the character list is compared to. (Input as a string)
 
 
 #### Reference Three
